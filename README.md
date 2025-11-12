@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on a Student Feedback platform.<br><br>👯 I’m looking to collaborate on UI/UX design projects and Django-based web applications.  <br><br>🤝 I’m looking for help with Machine Learning techniques to make my chatbots smarter and more accurate.  <br><br>🌱 I’m currently learning Advanced Python to build better, more efficient solutions.  <br><br>💬 Ask me about UI/UX Design, innovation, and how to turn ideas into impactful digital experiences.  <br><br>⚡ Fun fact: I’m left-handed, and I love creating designs and systems that feel intuitive and human-centered!
-
-
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/lorrainewambui) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lorraine-wambiru) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wambuiwambiru) 
 
